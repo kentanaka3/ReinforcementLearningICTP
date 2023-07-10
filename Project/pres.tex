@@ -1,0 +1,81 @@
+\documentclass[12pt,aspectratio=169, mathserif]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage{amstext}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{amsfonts}
+\title[MABP for the Optimal Design of Clinical Trials]{Review: Multi-armed Bandit Models for the Optimal Design of Clinical Trials: Benefits and Challenges}
+\author[Ken Tanaka]{Ken Tanaka Hernández}
+\institute[ICTP]{International Centre for Theoretical Physics\\\color{white}.\color{black}\\Project for Reinforcement Learning:\\Prof. Antonio Celani}
+\logo{\includegraphics[height=1.3cm]{../../logo.jpeg}}
+\setbeamertemplate{navigation symbols}{}
+\usetheme{Madrid}
+\begin{document}
+  \begin{frame}
+    \titlepage
+  \end{frame}
+  \begin{frame}[t]
+    \frametitle{Motivation}
+    \framesubtitle{Goals}
+    \begin{itemize}
+      \item Identify the "Best" treatment : \textit{Exploration or Learning}
+      \item Treat patients as "Effectively" as possible during the trial: 
+      \textit{Exploitation or Earnings}
+    \end{itemize}
+  \end{frame}
+  \begin{frame}[t]
+    \frametitle{Introduction}
+    \framesubtitle{Bayesian Bernoulli $K$-Armed Bandit Problem}
+    Let $y_{k, t}\in \mathbf{Y}_{k, t}\sim \text{Ber}(\rho_{k})$, where:\\
+    $\quad$Treatment $\equiv k\in\{1,\ldots, K\}\leftarrow$ Arm\\
+    $\quad$Patient $\equiv t\in\{1,\ldots,N\}\leftarrow$ Time\\
+    \color{white}.\color{black}\\
+    The \textit{Bayesian} feature: $\rho_k \in \mathbf{P}_k\sim$ Beta($\alpha, \beta$)
+    $ = \frac{\Gamma(\alpha + \beta)}{\Gamma(\alpha)\Gamma(\beta)}x^{\alpha - 1}
+    x^{\beta - 1}$; \\
+    $\quad$Conjugate Prior distribution\\
+    \begin{equation*}
+      (\alpha, \beta)=\left\{\begin{matrix}
+        (S_{k, 0}, F_{k, 0})\in \mathbb{N}_+^2&\\
+        (S_{k, 0} + S_{k, t}, F_{k, 0} + F_{k, t})&: t \geq 1
+    \end{matrix}\right.
+  \end{equation*}
+  $\quad(\text{Succesful, Failure})\equiv(S_{k, t}, F_{k, t})\in\mathbb{N}_0^2$ 
+  \end{frame}
+  \begin{frame}[t]
+    \frametitle{Introduction}
+    \framesubtitle{Bayesian Bernoulli $K$-Armed Bandit Problem}
+    \textit{Action} space:\\
+    $\qquad\mathbb{A}_k \ni a_{k,t} = \{0 , 1\}$\\
+    \color{white}.\color{black}\\
+    Markovian \textit{transition probability rule}:\\
+    $\qquad P_k\{\mathbf{s}_{k, t + 1} | \mathbf{s}_{k, t}, a_{k, t}\}\sim$
+    \begin{equation*}
+      \mathbf{s}_{k, t + 1} = \left\{\begin{matrix}
+        \left\{\begin{array}{c}
+          (S_{k, 0} + S_{k, t} + 1, F_{k, 0} + F_{k, t}): (S_{k, 0} + S_{k, t})/c_t\\
+          (S_{k, 0} + S_{k, t}, F_{k, 0} + F_{k, t} + 1): (F_{k, 0} + F_{k, t})/c_t
+        \end{array}\right.&:a_{k,t} = 1\\
+        \mathbf{s}_{k, t} &: a_{k, t} = 0
+      \end{matrix}\right.
+    \end{equation*}
+    \begin{equation*}
+      \qquad c_t = S_{k, 0} + S_{k, t} + F_{k, 0} + F_{k, t}
+    \end{equation*}
+    \begin{equation*}
+      R(\mathbf{s}_{k, t}, a_{k, t}) = \frac{S_{k, 0} + S_{k, t}}{c_t}a_{k, t}
+    \end{equation*}
+  \end{frame}
+  \begin{frame}[t]
+    \frametitle{Introduction}
+    \framesubtitle{Objective}
+    \begin{equation*}
+      V^*_\pi(\mathbf{s}) = \max_\pi\mathbb{E}_\pi\left[\sum_{t = 1}^N\gamma^t
+      \sum_{k = 1}^KR(\mathbf{s}_{k,t}, a_{k,t})|\mathbf{s}_0 = \mathbf{s}\right]
+    \end{equation*}
+    Bayesian regret
+    \begin{equation*}
+      R_{-1} = N\max_k(\rho_k) - \mathbb{E}_\pi\left[\sum_{k = 0}^K\sum_{t = 1}^Na_{k,t}\right]
+    \end{equation*}
+  \end{frame}
+\end{document}
