@@ -1010,6 +1010,52 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeMadrid.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeMadrid.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeMadrid.sty
@@ -1184,12 +1230,6 @@ INPUT ../../logo.jpeg
 INPUT ../../logo.jpeg
 INPUT ../../logo.jpeg
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssi12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
-INPUT ../../logo.jpeg
-INPUT ../../logo.jpeg
-INPUT ../../logo.jpeg
-INPUT ../../logo.jpeg
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
@@ -1215,6 +1255,56 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssbx10.tfm
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ./Screenshot from 2023-07-12 13-50-37.png
+INPUT ./Screenshot from 2023-07-12 13-50-37.png
+INPUT Screenshot from 2023-07-12 13-50-37.png
+INPUT ./Screenshot from 2023-07-12 13-50-37.png
+INPUT ./Screenshot from 2023-07-12 13-50-37.png
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ./Figure 6.png
+INPUT ./Figure 6.png
+INPUT Figure 6.png
+INPUT ./Figure 6.png
+INPUT ./Figure 6.png
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ./Figure 7.png
+INPUT ./Figure 7.png
+INPUT Figure 7.png
+INPUT ./Figure 7.png
+INPUT ./Figure 7.png
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmssi12.tfm
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
@@ -1241,6 +1331,15 @@ INPUT ../../logo.jpeg
 INPUT ../../logo.jpeg
 INPUT ../../logo.jpeg
 INPUT ../../logo.jpeg
+INPUT ./DP.jpeg
+INPUT ./DP.jpeg
+INPUT DP.jpeg
+INPUT ./DP.jpeg
+INPUT ./DP.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
+INPUT ../../logo.jpeg
 OUTPUT pres.nav
 OUTPUT pres.toc
 OUTPUT pres.snm
@@ -1251,6 +1350,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
@@ -1258,7 +1358,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb

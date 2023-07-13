@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  9 JUL 2023 15:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.30)  12 JUL 2023 16:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -512,31 +512,53 @@ Package: amsthm 2020/05/29 v2.20.6
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks45
 \inpenc@posthook=\toks46
+) (/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithm.sty
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating environment
+ (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count329
+\float@exts=\toks47
+\float@box=\box75
+\@float@everytoks=\toks48
+\@floatcapt=\box76
+) (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\@float@every@algorithm=\toks49
+\c@algorithm=\count330
+) (/usr/share/texlive/texmf-dist/tex/latex/algorithms/algorithmic.sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+\c@ALC@unique=\count331
+\c@ALC@line=\count332
+\c@ALC@rem=\count333
+\c@ALC@depth=\count334
+\ALC@tlm=\skip64
+\algorithmicindent=\skip65
 ) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeMadrid.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty)) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count329
-\l__pdf_internal_box=\box75
+\l__color_backend_stack_int=\count335
+\l__pdf_internal_box=\box77
 ) (./pres.aux)
 \openout1 = `pres.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -574,24 +596,24 @@ LaTeX Font Info:    ... okay on input line 13.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count330
+\scratchcounter=\count336
 \scratchdimen=\dimen284
-\scratchbox=\box76
-\nofMPsegments=\count331
-\nofMParguments=\count332
-\everyMPshowfont=\toks47
-\MPscratchCnt=\count333
+\scratchbox=\box78
+\nofMPsegments=\count337
+\nofMParguments=\count338
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count339
 \MPscratchDim=\dimen285
-\MPnumerator=\count334
-\makeMPintoPDFobject=\count335
-\everyMPtoPDFconversion=\toks48
+\MPnumerator=\count340
+\makeMPintoPDFobject=\count341
+\everyMPtoPDFconversion=\toks51
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 13.
+Package hyperref Info: Link coloring OFF on input line 17.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -599,11 +621,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count336
+\c@section@level=\count342
 )
-LaTeX Info: Redefining \ref on input line 13.
-LaTeX Info: Redefining \pageref on input line 13.
-LaTeX Info: Redefining \nameref on input line 13.
+LaTeX Info: Redefining \ref on input line 17.
+LaTeX Info: Redefining \pageref on input line 17.
+LaTeX Info: Redefining \nameref on input line 17.
  (./pres.out) (./pres.out)
 \@outlinefile=\write5
 \openout5 = `pres.out'.
@@ -624,47 +646,135 @@ Dictionary: translator-theorem-dictionary, Language: English
 <../../logo.jpeg, id=26, 475.7775pt x 475.7775pt>
 File: ../../logo.jpeg Graphic file (type jpg)
 <use ../../logo.jpeg>
-Package pdftex.def Info: ../../logo.jpeg  used on input line 16.
+Package pdftex.def Info: ../../logo.jpeg  used on input line 20.
 (pdftex.def)             Requested size: 36.98853pt x 36.98866pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../../logo.jpeg>]
-File: ../../logo.jpeg Graphic file (type jpg)
-<use ../../logo.jpeg>
-Package pdftex.def Info: ../../logo.jpeg  used on input line 25.
-(pdftex.def)             Requested size: 36.98853pt x 36.98866pt.
- [2
-
-]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 39.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 39.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 File: ../../logo.jpeg Graphic file (type jpg)
 <use ../../logo.jpeg>
-Package pdftex.def Info: ../../logo.jpeg  used on input line 44.
+Package pdftex.def Info: ../../logo.jpeg  used on input line 39.
+(pdftex.def)             Requested size: 36.98853pt x 36.98866pt.
+ [2
+
+]
+File: ../../logo.jpeg Graphic file (type jpg)
+<use ../../logo.jpeg>
+Package pdftex.def Info: ../../logo.jpeg  used on input line 57.
 (pdftex.def)             Requested size: 36.98853pt x 36.98866pt.
  [3
 
 ]
+<Screenshot from 2023-07-12 13-50-37.png, id=62, 725.71124pt x 667.49374pt>
+File: Screenshot from 2023-07-12 13-50-37.png Graphic file (type png)
+<use Screenshot from 2023-07-12 13-50-37.png>
+Package pdftex.def Info: Screenshot from 2023-07-12 13-50-37.png  used on input line 74.
+(pdftex.def)             Requested size: 129.52461pt x 119.12517pt.
 File: ../../logo.jpeg Graphic file (type jpg)
 <use ../../logo.jpeg>
-Package pdftex.def Info: ../../logo.jpeg  used on input line 68.
+Package pdftex.def Info: ../../logo.jpeg  used on input line 74.
 (pdftex.def)             Requested size: 36.98853pt x 36.98866pt.
  [4
 
-]
+ <./Screenshot from 2023-07-12 13-50-37.png>]
+<Figure 6.png, id=71, 770.88pt x 578.16pt>
+File: Figure 6.png Graphic file (type png)
+<use Figure 6.png>
+Package pdftex.def Info: Figure 6.png  used on input line 80.
+(pdftex.def)             Requested size: 356.99693pt x 267.75047pt.
+
+Overfull \vbox (10.58002pt too high) detected at line 80
+ []
+
 File: ../../logo.jpeg Graphic file (type jpg)
 <use ../../logo.jpeg>
 Package pdftex.def Info: ../../logo.jpeg  used on input line 80.
 (pdftex.def)             Requested size: 36.98853pt x 36.98866pt.
- [5
+[5
+
+ <./Figure 6.png>]
+File: ../../logo.jpeg Graphic file (type jpg)
+<use ../../logo.jpeg>
+Package pdftex.def Info: ../../logo.jpeg  used on input line 101.
+(pdftex.def)             Requested size: 36.98853pt x 36.98866pt.
+ [6
 
 ]
+File: ../../logo.jpeg Graphic file (type jpg)
+<use ../../logo.jpeg>
+Package pdftex.def Info: ../../logo.jpeg  used on input line 115.
+(pdftex.def)             Requested size: 36.98853pt x 36.98866pt.
+ [7
+
+]
+<Figure 7.png, id=94, 770.88pt x 578.16pt>
+File: Figure 7.png Graphic file (type png)
+<use Figure 7.png>
+Package pdftex.def Info: Figure 7.png  used on input line 121.
+(pdftex.def)             Requested size: 356.99693pt x 267.75047pt.
+
+Overfull \vbox (10.58002pt too high) detected at line 121
+ []
+
+File: ../../logo.jpeg Graphic file (type jpg)
+<use ../../logo.jpeg>
+Package pdftex.def Info: ../../logo.jpeg  used on input line 121.
+(pdftex.def)             Requested size: 36.98853pt x 36.98866pt.
+[8
+
+ <./Figure 7.png>]
+File: ../../logo.jpeg Graphic file (type jpg)
+<use ../../logo.jpeg>
+Package pdftex.def Info: ../../logo.jpeg  used on input line 130.
+(pdftex.def)             Requested size: 36.98853pt x 36.98866pt.
+ [9
+
+]
+File: ../../logo.jpeg Graphic file (type jpg)
+<use ../../logo.jpeg>
+Package pdftex.def Info: ../../logo.jpeg  used on input line 149.
+(pdftex.def)             Requested size: 36.98853pt x 36.98866pt.
+ [10
+
+]
+File: ../../logo.jpeg Graphic file (type jpg)
+<use ../../logo.jpeg>
+Package pdftex.def Info: ../../logo.jpeg  used on input line 173.
+(pdftex.def)             Requested size: 36.98853pt x 36.98866pt.
+ [11
+
+]
+File: ../../logo.jpeg Graphic file (type jpg)
+<use ../../logo.jpeg>
+Package pdftex.def Info: ../../logo.jpeg  used on input line 185.
+(pdftex.def)             Requested size: 36.98853pt x 36.98866pt.
+ [12
+
+]
+<DP.jpeg, id=131, 526.96875pt x 443.6575pt>
+File: DP.jpeg Graphic file (type jpg)
+<use DP.jpeg>
+Package pdftex.def Info: DP.jpeg  used on input line 190.
+(pdftex.def)             Requested size: 289.11002pt x 243.40817pt.
+
+Overfull \vbox (9.0pt too high) detected at line 190
+ []
+
+File: ../../logo.jpeg Graphic file (type jpg)
+<use ../../logo.jpeg>
+Package pdftex.def Info: ../../logo.jpeg  used on input line 190.
+(pdftex.def)             Requested size: 36.98853pt x 36.98866pt.
+[13
+
+ <./DP.jpeg>]
 \tf@nav=\write6
 \openout6 = `pres.nav'.
 
@@ -679,18 +789,18 @@ Package rerunfilecheck Info: File `pres.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 21579 strings out of 479613
- 421347 string characters out of 5882401
- 670178 words of memory out of 5000000
- 39228 multiletter control sequences out of 15000+600000
- 479635 words of font info for 67 fonts, out of 8000000 for 9000
+ 21983 strings out of 479613
+ 427609 string characters out of 5882401
+ 674813 words of memory out of 5000000
+ 39594 multiletter control sequences out of 15000+600000
+ 479929 words of font info for 68 fonts, out of 8000000 for 9000
  331 hyphenation exceptions out of 8191
- 99i,15n,104p,468b,502s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on pres.pdf (5 pages, 178414 bytes).
+ 99i,15n,104p,468b,571s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on pres.pdf (13 pages, 407438 bytes).
 PDF statistics:
- 141 PDF objects out of 1000 (max. 8388607)
- 88 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 90 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 221 PDF objects out of 1000 (max. 8388607)
+ 146 compressed objects within 2 object streams
+ 29 named destinations out of 1000 (max. 500000)
+ 110 words of extra memory for PDF output out of 10000 (max. 10000000)
 
